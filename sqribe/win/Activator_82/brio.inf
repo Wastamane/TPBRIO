@@ -1,0 +1,15 @@
+[products]
+060456,Hyperion SQR Server/8.2/Windows/DB2,1,sqr\win\db2,,setup.exe
+067056,Hyperion SQR Server/8.2/Windows/DDO,1,sqr\win\ddo,,setup.exe
+060256,Hyperion SQR Server/8.2/Windows/Informix,1,sqr\win\ifx,,setup.exe
+061256,Hyperion SQR Server/8.2/Windows/ODBC,1,sqr\win\odb,,setup.exe
+060156,Hyperion SQR Server/8.2/Windows/Oracle,1,sqr\win\ora,,setup.exe
+060656,Hyperion SQR Server/8.2/Windows/Sybase,1,sqr\win\syb,,setup.exe
+000000,Hyperion SQR Developer/8.2,1,Developer,,setup.exe
+000000,Hyperion SQR Remote/8.2,1,Remote,,setup.exe
+000000,Hyperion SQR Viewer/8.2,1,Viewer,,setup.exe
+000000,Hyperion SQR Activator/8.2,1,Activator,,setup.exe
+000000,Acrobat Reader/5.05 (English),1,acrobat\windows,,rp505enu.exe
+000000,Acrobat Reader/5.05 (Japanese),1,acrobat\windows,,ar505jpn.exe
+000000,Acrobat Reader/5.05 (Simplified Chinese),1,acrobat\windows,,ar505chs.exe
+[bundles]

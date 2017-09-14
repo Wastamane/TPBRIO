@@ -1,0 +1,8 @@
+[products]
+060456,Hyperion SQR Server/8.2/Windows/DB2,1,db2,,setup.exe
+067056,Hyperion SQR Server/8.2/Windows/DDO,1,ddo,,setup.exe
+060256,Hyperion SQR Server/8.2/Windows/Informix,1,ifx,,setup.exe
+061256,Hyperion SQR Server/8.2/Windows/ODBC,1,odb,,setup.exe
+060156,Hyperion SQR Server/8.2/Windows/Oracle,1,ora,,setup.exe
+060656,Hyperion SQR Server/8.2/Windows/Sybase,1,syb,,setup.exe
+[bundles]
